@@ -6,5 +6,5 @@
 
 Unterüberschrift
 ----------------
-Das ist *fett* und **kursiv** oder _unterstrichen_.
+Das ist **fett** und *kursiv* oder __unterstrichen__.
 Auch [Links](http://martin-thoma.com) gehen.
